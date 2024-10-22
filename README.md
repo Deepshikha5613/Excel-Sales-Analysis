@@ -6,7 +6,7 @@ This is my first Git Repository
 
  **1.** Create  [Customer Performance Report](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)
   
- **2.** Conduct a comprehensive comparison between 
+ **2.** Conduct a comprehensive comparison between [Market Performance vs Sales Target](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Market%20Performance.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 

@@ -6,8 +6,7 @@ This is my first Git Repository
 
  **1.** Create Customer Performance Report
   
-
-  **2.** Conduct a comprehensive comparison between 
+ **2.** Conduct a comprehensive comparison between 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 

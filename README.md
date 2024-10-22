@@ -22,7 +22,7 @@ This is my first Git Repository
     **1.** Create Profit and Loss (P&L) reports by [Fiscal_Year](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Proft%20%26%20Loss%20statement%20by%20Fiscal%20year.pdf) & [Month](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/profit%20%26%20Loss%20Statement%20by%20Month.pdf)
   
 
-   **2.** Create Profit and Loss (P&L) reports by
+   **2.** Create Profit and Loss (P&L) reports by [Market](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Profit%20%26%20Loss%20Statement%20by%20Market.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 

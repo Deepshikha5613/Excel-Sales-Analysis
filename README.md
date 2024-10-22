@@ -1,11 +1,10 @@
 # Excel-Sales-Analysis
 <br>
 This is my first Git Repository
-<br>
+
 - **Project objective:** 
 
- 
-**1.** Create Customer Performance Report
+ **1.** Create Customer Performance Report
   
  **2.** Conduct a comprehensive comparison between 
 

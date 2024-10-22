@@ -4,7 +4,7 @@ This is my first Git Repository
 
 - **Project objective:** 
 
- **1.** Create https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf
+ **1.** Create  [Customer Performance Report](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Customer%20Performance%20Report.pdf)
   
  **2.** Conduct a comprehensive comparison between 
 

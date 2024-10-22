@@ -19,7 +19,8 @@ This is my first Git Repository
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by 
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal_Year](https://github.com/Deepshikha5613/Excel-Sales-Analysis/blob/main/Proft%20%26%20Loss%20statement%20by%20Fiscal%20year.pdf)
+  
 
    **2.** Create Profit and Loss (P&L) reports by
 
